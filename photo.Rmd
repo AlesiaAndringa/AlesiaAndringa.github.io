@@ -1,9 +1,9 @@
 ---
-title: "Photo"
-author: "Me"
-date: "2/20/2018"
+title: "Doggo Photo"
 output: html_document
 ---
+
+My awesome doggo Bailey!
 
 ```{r, echo=FALSE}
 knitr::include_graphics("FullSizeRender (1).jpg")

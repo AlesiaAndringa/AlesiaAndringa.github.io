@@ -11,6 +11,6 @@ navbar:
       href: photo.html 
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     highlight: textmate
     
