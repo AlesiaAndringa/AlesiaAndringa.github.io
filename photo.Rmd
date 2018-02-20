@@ -1,0 +1,12 @@
+---
+title: "Photo"
+author: "Me"
+date: "2/20/2018"
+output: html_document
+---
+
+```{r, echo=FALSE}
+knitr::include_graphics("FullSizeRender (1).jpg")
+```
+
+
