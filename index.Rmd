@@ -1,12 +1,10 @@
 ---
-title: "Alesia's Website"
+title: "My Webpage"
 output: html_document
 ---
 
-Hello Website!
 
-```{r}
-x<-1:10
-y<-21:30
-plot(x,y)
-```
+####Hello Website Viewers!
+
+This is my webpage for my Data Science class at Appalachian State University. This is a work in progress and this is just the beginning of the greatness to come!
+

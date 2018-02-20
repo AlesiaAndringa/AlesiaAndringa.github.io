@@ -1,9 +1,9 @@
 ---
-title: "Doggo Photo"
+title: "Fun Photo"
 output: html_document
 ---
 
-My awesome doggo Bailey!
+Here is a picture of my awesome dog Bailey!
 
 ```{r, echo=FALSE}
 knitr::include_graphics("FullSizeRender (1).jpg")
