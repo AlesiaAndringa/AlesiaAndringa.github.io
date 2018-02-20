@@ -1,4 +1,5 @@
 name: "my-website"
+output_dir: "."
 navbar:
   title: "Alesia's Website"
   left:
@@ -6,9 +7,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Photo"
+      href: photo.html 
 output:
   html_document:
     theme: cosmo
     highlight: textmate
     
-    output_dir: "."
